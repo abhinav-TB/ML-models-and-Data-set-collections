@@ -1,2 +1,6 @@
 *.tgz
 *.png
+*.pth
+*.pt
+*.gz
+/data
